@@ -1,0 +1,9 @@
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Georgia;
+  text-align: center;
+}
+text can be altered left, right or centered through CSS text alignment.

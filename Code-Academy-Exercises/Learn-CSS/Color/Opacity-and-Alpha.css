@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(0, 255, 0, 0.5);
+}
+
+.midground {
+  background-color: hsla(225, 100%, 25%, 0.4);
+}
+
+.foreground {
+  background-color: hsla(325, 50%, 50%, 0.6);
+}
+hsla and rgba pertain to the color and opaq feature of an element (alpha <1)

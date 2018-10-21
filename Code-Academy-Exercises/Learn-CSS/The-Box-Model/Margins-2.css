@@ -1,0 +1,12 @@
+
+h2 {
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  padding: 20px 30px;
+  text-align: center;
+  margin: 30px 20px;
+}
+
+ pixels for margin can be placed at 30 pixels foor the top and bottom, 20pixels for the right and left of the box

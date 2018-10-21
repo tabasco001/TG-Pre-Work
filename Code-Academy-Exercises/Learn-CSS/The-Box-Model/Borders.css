@@ -1,0 +1,29 @@
+#banner .content h1 {
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid white;
+}
+
+#main {
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+}
+
+h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  border: 1px dotted red;
+}
+the parameters of the box's border can be adjusted in CSS 

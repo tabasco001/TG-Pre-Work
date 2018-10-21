@@ -1,0 +1,15 @@
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+ max-height: 1000px;
+}
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+ max-height: 1000px;
+}
+set maximum height and scrolling if over the size limit for the screen

@@ -1,0 +1,7 @@
+/* Add styles for the Garamond font here */
+
+.garamond .sample .text {
+  font-family: Garamond, serif;
+}
+
+fallback fonts

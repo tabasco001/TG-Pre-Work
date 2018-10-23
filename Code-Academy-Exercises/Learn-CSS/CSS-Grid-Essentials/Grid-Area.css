@@ -1,0 +1,8 @@
+.a {
+  grid-area: 5 / 1 / span 2 / span 2;
+}
+
+.b {
+  grid-area: 2 / 2 / span 3 / span 6;
+}
+gris-area start row,start column, end row. end column

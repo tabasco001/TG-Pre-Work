@@ -14,4 +14,4 @@ const longFavoriteWords = favoriteWords.filter(word => {
   return word.length > 7;
 })
 
-// filter the items in an array 
+// filter the items in an array

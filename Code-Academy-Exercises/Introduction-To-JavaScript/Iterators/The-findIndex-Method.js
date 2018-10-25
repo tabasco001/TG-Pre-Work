@@ -8,4 +8,4 @@ const startsWithS = animals.findIndex(animal => {
   return animal[0] === 's' ? true : false;
 });
 /// .findIndex checks the array for the first true
-// instance in the array 
+// instance in the array

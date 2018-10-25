@@ -6,4 +6,4 @@ if (hungerLevel > 7)
 else
   {console.log('We ca eat later');
   }
-  binary decision making
+//  binary decision making

@@ -14,4 +14,4 @@ switch(athleteFinalPosition){
     console.log('No medal awarded.');
     break;
 }
-//sasves time from the 'else if' fromat 
+//sasves time from the 'else if' fromat

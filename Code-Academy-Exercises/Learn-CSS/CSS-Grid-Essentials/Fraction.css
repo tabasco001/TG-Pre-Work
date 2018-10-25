@@ -4,4 +4,5 @@
   width: 400px;
   height: 500px;
   grid-template: 1fr 1fr 1fr / 3fr 50% 1fr;
-}width expressed in fractions
+}
+/*width expressed in fractions*/

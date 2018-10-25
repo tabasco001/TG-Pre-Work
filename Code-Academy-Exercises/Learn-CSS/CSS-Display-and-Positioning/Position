@@ -1,0 +1,5 @@
+.question {
+  text-align: center;
+  position: static;
+}
+static is the default position

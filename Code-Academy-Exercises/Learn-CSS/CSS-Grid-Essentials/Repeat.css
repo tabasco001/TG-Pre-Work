@@ -5,4 +5,4 @@
   height: 500px;
   grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
 }
-repeat for rows
+/*repeat for rows*/

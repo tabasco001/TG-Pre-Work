@@ -4,5 +4,6 @@ h2 {
   line-height: 2.5;
   font-family: Georgia;
   word-spacing: 0.05em;
+  letter-spacing: 0.02em;
 }
-spaceing between words can be adjusted
+/*the spce between letters can be set

@@ -29,5 +29,5 @@ h2.destination {
  font-family: cursive;
 }
 
-an element can have more than one selector, this is chaining, the hierarchy would be
-id selector, chain selector, class selector 
+/*an element can have more than one selector, this is chaining, the hierarchy would be
+id selector, chain selector, class selector .

@@ -36,4 +36,4 @@ h2.destination {
 h5 {
   color: rebeccapurple !important;
 }
- !important shoukld not be used, it overides everything else. much like Thanos' Gauntlet
+ /*   !important should not be used, it overides everything else. much like Thanos' Gauntlet

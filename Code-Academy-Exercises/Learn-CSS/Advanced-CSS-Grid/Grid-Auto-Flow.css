@@ -12,4 +12,4 @@ main {
   grid-auto-rows: 50 px;
   grid-auto-flow: column;
 }
-unexpected data is added as a column
+/* unexpected data is added as a column */

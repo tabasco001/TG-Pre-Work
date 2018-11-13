@@ -19,4 +19,4 @@ const onlyNumbers = things.filter(thing => {
 });
 
 console.log(onlyNumbers);
-/// iterations look through an array and a eturn a value
+/// iterations look through an array and return a value
